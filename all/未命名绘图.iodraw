@@ -10,7 +10,7 @@
         <mxCell id="T-GHZFBo0HiBnYqySgiw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aEing41bvUkCxAV7cKrJ-1" target="T-GHZFBo0HiBnYqySgiw-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aEing41bvUkCxAV7cKrJ-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="aEing41bvUkCxAV7cKrJ-1" value="watch" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="140" y="165" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T-GHZFBo0HiBnYqySgiw-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="T-GHZFBo0HiBnYqySgiw-7" value="vue" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T-GHZFBo0HiBnYqySgiw-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T-GHZFBo0HiBnYqySgiw-13" value="vue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
